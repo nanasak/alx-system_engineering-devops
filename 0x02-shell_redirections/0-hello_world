@@ -1,19 +1,2 @@
-ile.  If this
-is the case,
-    be careful not to end up with two different instances
-[24;59Ho[25;1Hf the same
-for this file crashed.
-    If this is the case, use ":recover" or "vim -r #!/bin/
-[24;59Hb[25;1Hash"
-    to recover the changes (see ":help recovery").
-    If you did this already, delete the swap file "/var/tm
-[24;59Hp[25;1H/bash.swp"
-    to avoid this message.
-
-[32mSwap file "/var/tmp/bash.swp" already exists![m
-[32m-- More --[?25h[m[25;1H[K[25;1H[32m[O]pen Read-Only, (E)dit anyway, (R)ecover, (Q)uit, (A)bor[m
-[24;59H[32mt[25;1H: [m[25;1H[K[25;1H
-[?25l[24;1H"#!/bin/bash" [New DIRECTORY]
-[32mPress ENTER or type command to continue[?25h[m[1;1H[L[?25l[2;1H[1m[34m~                                                          [3;1H~                                                          [4;1H~                                                          [5;1H~                                                          [6;1H~                                                          [7;1H~                                                          [8;1H~                                                          [9;1H~                                                          [10;1H~                                                          [11;1H~                                                          [12;1H~                                                          [13;1H~                                                          [14;1H~                                                          [15;1H~                                                          [16;1H~                                                          [17;1H~                                                          [18;1H~                                                          [19;1H~                                                          [20;1H~                                                          [21;1H~                                                          [22;1H~                                                          [23;1H~                                                          [24;1H~                                                          [m[25;1H[K[25;42H0,0-1[9CAll[1;1H[?25h[?25l[25;32H^[[1;1H[25;32H  [1;1H[25;32H^[[1;1H[25;32H  [1;1H[?25h[?25l[25;32H^[[1;1H[25;32H  [1;1H[25;32H^[[1;1H[25;32H  [1;1H[?25h[?25l[25;32H:[1;1H[25;32H[K[25;1H:[?2004h[?25hwq[?25l[?2004l"#!/bin/bash"
 #!/bin/bash
-echo 'Hello, World'
+echo "Hello, World"
