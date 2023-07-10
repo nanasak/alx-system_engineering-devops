@@ -1,19 +1,8 @@
-[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;25r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[25;1H[1m[37m[41mE325: ATTENTION[m
-Found a swap file by the name "/var/tmp/bash.swp"
-[10Cowned by: root   dated: Mon Jul 10 07:30:26 2023
-[9Cfile name: #!/bin/bash
-[10Cmodified: YES
-[9Cuser name: root   host name: 0b32f76aecad
-[8Cprocess ID: 5424 (STILL RUNNING)
-While opening file "#!/bin/bash"
-      CANNOT BE FOUND
-(1) Another program may be editing the same file.  If this
+ile.  If this
 is the case,
     be careful not to end up with two different instances
 [24;59Ho[25;1Hf the same
-    file when making changes.  Quit, or continue with caut
-[24;59Hi[25;1Hon.
-(2) An edit session for this file crashed.
+for this file crashed.
     If this is the case, use ":recover" or "vim -r #!/bin/
 [24;59Hb[25;1Hash"
     to recover the changes (see ":help recovery").
@@ -26,5 +15,5 @@ is the case,
 [24;59H[32mt[25;1H: [m[25;1H[K[25;1H
 [?25l[24;1H"#!/bin/bash" [New DIRECTORY]
 [32mPress ENTER or type command to continue[?25h[m[1;1H[L[?25l[2;1H[1m[34m~                                                          [3;1H~                                                          [4;1H~                                                          [5;1H~                                                          [6;1H~                                                          [7;1H~                                                          [8;1H~                                                          [9;1H~                                                          [10;1H~                                                          [11;1H~                                                          [12;1H~                                                          [13;1H~                                                          [14;1H~                                                          [15;1H~                                                          [16;1H~                                                          [17;1H~                                                          [18;1H~                                                          [19;1H~                                                          [20;1H~                                                          [21;1H~                                                          [22;1H~                                                          [23;1H~                                                          [24;1H~                                                          [m[25;1H[K[25;42H0,0-1[9CAll[1;1H[?25h[?25l[25;32H^[[1;1H[25;32H  [1;1H[25;32H^[[1;1H[25;32H  [1;1H[?25h[?25l[25;32H^[[1;1H[25;32H  [1;1H[25;32H^[[1;1H[25;32H  [1;1H[?25h[?25l[25;32H:[1;1H[25;32H[K[25;1H:[?2004h[?25hwq[?25l[?2004l"#!/bin/bash"
-[1m[37m[41m"#!/bin/bash" E212: Can't open file for writing[?2004h[m
-[32mPress ENTER or type command to continue[?25h[?25l[m[25;32H        [1;1H[2L[2;1H[1m[34m~                                                          [m[25;1H[K[25;42H0,0-1[9CAll[1;1H[?25h[?25l[25;32Hq[1;1H[?25h[?25l[25;33Hu[1;1H[25;1H[1mrecording @u[m[25;32H[K[25;42H0,0-1[9CAll[1;1H[?25h[?25l[25;32Hi[1;1H[25;32H [1;1H[25;1H[1m--c INSERT --[m [1mrecording @u[m[25;42H[K[25;42H0,1[11CAll[1;1H[?25h[?25lt[25;42H1,2[1;2H[?25h[?25l[2;1H[K[25;42H2,1[2;1H[?25h
+#!/bin/bash
+echo Hello, World
